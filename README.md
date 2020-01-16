@@ -1,4 +1,6 @@
-# Public CV - Adriaan Beiertz
+# Projects
+
+This is a list of the projects I've worked on, with a description and the technologies used therein.
 
 ## Contact Info
 
